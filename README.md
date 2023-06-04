@@ -1,16 +1,21 @@
-# rolling_dice
+# Rolling Dice
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a simple app for rolling a dice.
+
+It has uses of different basic flutter widgets and object oriented programming paradigms, with state management.
+
+On pressing a button a a random roll of dice appears between 1 and 6.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/Ani023/rolling_dice/assets/97366317/5a7b801a-c9b0-434d-b6b4-23d276d393c2)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+https://github.com/Ani023/rolling_dice/assets/97366317/732647a5-191f-485c-9d4a-f113ad81253b
+
